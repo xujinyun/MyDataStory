@@ -1,30 +1,42 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://xujinyun.github.io/MyDataStory/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+# Portfolio Website
+This personal portfolio is forked from [Telling Stories with Data site](https://github.com/cmustudent/tswd-portfolio-templates/).  
+- Web page URL: https://xujinyun.github.io/MyDataStory/
+- This repository: https://github.com/xujinyun/MyDataStory
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. Want to know more about my cool ROBOT? Contact me!
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! This Jinyun Xu from Robotics Institute. Surprise! I have always had an obsession with the graphs appearing in my papers and slides. That's why I come here to study data visualization. I hope it can enhance my papers and slides.
+
+<p align="center">
+  <img src="MeinSantaMonica.jpg" width="400"/>
+</p>
+
+<p align="center">
+  <em><sub>Beautiful sunset in Santa Monica, Dec 2023.</sub></em>
+</p>
+
+I am a Master student graduating this summer. Looking for Robotics Engineer job. Here are some cool robot I made in CMU, will be updated!
+<div align="center">
+  <div style="display:flex; justify-content: center; align-items: center; margin-right: 20px;">
+    <div style="flex: 1; text-align: center;">
+       <img src="earthworm.png" alt="Description of Image 1" width="300" style="margin-right: 20px;">
+      <p><em><sub>Earthworm: link coming soon</sub></em></p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="robospect.jpg" alt="Description of Image 2" width="200">
+      <p><em><sub> Robospect: https://mrsdprojects.ri.cmu.edu/2023teamg/ </sub></em></p>
+    </div>
+  </div>
+</div>
+
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- I want to learn how to make my graphs on paper fantastic. Although I am proficient in creating graphs in PowerPoint, I aspire to enhance my skills further.
+- I have a strong interest in data because it holds truth, but its impact depends on how the story is told. I hope to acquire the ability to **tell** and to *tell*.
+- As a robotic engineer, my goal is to continue building cool and innovative projects.
 
 # Portfolio
 
@@ -103,3 +115,4 @@ Any of those formats will work. Here's some examples of working links:
 Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
+
