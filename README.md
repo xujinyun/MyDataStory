@@ -1,4 +1,4 @@
-| [home page](https://xujinyun.github.io/MyDataStory/) | [Visualizing government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home page](https://xujinyun.github.io/MyDataStory/) | [Visualizing government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio Website
 This personal portfolio is forked from [Telling Stories with Data site](https://github.com/cmustudent/tswd-portfolio-templates/).  
@@ -42,7 +42,7 @@ I am a Master student graduating this summer. Looking for Robotics Engineer job.
 
 All my data stories are here:
 
-## Assignment: [Visualizing government debt](visualizing-government-debt)
+## Assignment 1: [Visualizing government debt](visualizing-government-debt)
 This is the first assignment for visulization of general government debt data using website tool and **Tableau**. This is my first time with **Tableau**. Click the link to check my work!
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
