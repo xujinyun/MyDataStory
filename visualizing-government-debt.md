@@ -14,7 +14,7 @@ This is the visualization from the Tableau tutorial. World's government debt dat
 
 <script type='text/javascript'>                    
     var divElement = document.getElementById('viz1706547674108');                    
-    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='110%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
     var scriptElement = document.createElement('script');                    
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
